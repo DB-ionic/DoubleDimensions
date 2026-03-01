@@ -32,7 +32,7 @@ if (array_length(global.caixas_transferidas) > 0)
            // if (portal_id == info.portal_id)
            // {
                var _caixa = instance_create_layer(
-			   info.cx -20,
+			   info.cx -60,
 			  info.cy,
 		
 			 "Caixas",

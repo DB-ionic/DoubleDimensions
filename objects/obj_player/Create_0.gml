@@ -21,7 +21,7 @@ movimento2 = function(){
 	velh = 0
 }
 x+=velh
-
+x = round(x)
 	var _coly = instance_place(x ,y + velv,colisoes)
 	
 		if(_coly){
@@ -34,6 +34,7 @@ x+=velh
 	velv = 0
 }
 y +=velv
+y = round(y)
 }
 enum states{parado,movendo,empurrando,diminuindo,aumentando}
 

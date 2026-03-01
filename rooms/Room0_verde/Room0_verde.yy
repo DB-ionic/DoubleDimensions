@@ -41,7 +41,7 @@
     {"$GMRTileLayer":"","%Name":"Tiles_2","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_2","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":10,"SerialiseWidth":16,"TileCompressedData":[
           -36,-2147483648,1,101,-8,-2147483648,1,118,-9,-2147483648,1,117,-3,-2147483648,1,101,-18,-2147483648,
           4,88,-2147483648,-2147483648,104,-4,-2147483648,1,0,-4,-2147483648,1,0,-9,-2147483648,-6,0,-3,-2147483648,
-          10,71,-2147483648,0,120,0,0,-2147483648,-2147483648,0,86,-3,-2147483648,1,0,-3,-2147483648,-3,0,4,85,
+          10,71,-2147483648,0,120,0,0,-2147483648,-2147483648,0,0,-3,-2147483648,1,0,-3,-2147483648,-3,0,4,85,
           0,0,114,-3,0,6,69,0,115,-2147483648,-2147483648,70,-6,0,1,114,-6,0,-2,-2147483648,-2,0,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tl_verde","path":"tilesets/tl_verde/tl_verde.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"Player","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
