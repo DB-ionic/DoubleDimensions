@@ -1,0 +1,1 @@
+y = ystart + 1 * sin(current_time / 300);

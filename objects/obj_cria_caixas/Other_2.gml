@@ -1,0 +1,6 @@
+audio_play_sound(snd_musica_verde,1,1)
+audio_sound_gain(snd_musica_verde, 1, 0)
+audio_play_sound(snd_musica_amarela,1,1)
+audio_sound_gain(snd_musica_amarela, 0, 0)
+audio_play_sound(snd_musica_espacial,1,1)
+audio_sound_gain(snd_musica_espacial, 0, 0)
