@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":15.428572,
+  "duration":34.285713,
   "exportDir":"",
   "name":"snd_musica_amarela",
   "parent":{
