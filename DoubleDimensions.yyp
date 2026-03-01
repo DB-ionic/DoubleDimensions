@@ -112,8 +112,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"RoomFinal","path":"rooms/RoomFinal/RoomFinal.yy",},},
     {"roomId":{"name":"Room0_verde","path":"rooms/Room0_verde/Room0_verde.yy",},},
+    {"roomId":{"name":"RoomFinal","path":"rooms/RoomFinal/RoomFinal.yy",},},
     {"roomId":{"name":"Room06_verde","path":"rooms/Room06_verde/Room06_verde.yy",},},
     {"roomId":{"name":"RoomInicial","path":"rooms/RoomInicial/RoomInicial.yy",},},
     {"roomId":{"name":"Room02_verde","path":"rooms/Room02_verde/Room02_verde.yy",},},
