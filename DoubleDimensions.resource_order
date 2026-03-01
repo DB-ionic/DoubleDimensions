@@ -73,7 +73,6 @@
     {"name":"spr_spritesheet_verde","order":13,"path":"sprites/spr_spritesheet_verde/spr_spritesheet_verde.yy",},
     {"name":"spr_stars","order":22,"path":"sprites/spr_stars/spr_stars.yy",},
     {"name":"spr_stars2","order":23,"path":"sprites/spr_stars2/spr_stars2.yy",},
-    {"name":"spr_transicao_preto_1","order":24,"path":"sprites/spr_transicao_preto_1/spr_transicao_preto_1.yy",},
     {"name":"spr_transicao_preto","order":18,"path":"sprites/spr_transicao_preto/spr_transicao_preto.yy",},
     {"name":"tl_gramas","order":1,"path":"tilesets/tl_gramas/tl_gramas.yy",},
     {"name":"tl_verde","order":2,"path":"tilesets/tl_verde/tl_verde.yy",},

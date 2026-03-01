@@ -104,7 +104,6 @@
     {"id":{"name":"spr_spritesheet_verde","path":"sprites/spr_spritesheet_verde/spr_spritesheet_verde.yy",},},
     {"id":{"name":"spr_stars","path":"sprites/spr_stars/spr_stars.yy",},},
     {"id":{"name":"spr_stars2","path":"sprites/spr_stars2/spr_stars2.yy",},},
-    {"id":{"name":"spr_transicao_preto_1","path":"sprites/spr_transicao_preto_1/spr_transicao_preto_1.yy",},},
     {"id":{"name":"spr_transicao_preto","path":"sprites/spr_transicao_preto/spr_transicao_preto.yy",},},
     {"id":{"name":"tl_amarelo","path":"tilesets/tl_amarelo/tl_amarelo.yy",},},
     {"id":{"name":"tl_gramas","path":"tilesets/tl_gramas/tl_gramas.yy",},},
